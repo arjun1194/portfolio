@@ -11,7 +11,7 @@ export default class DataService {
           paragraphs: [
             "Hi! I am a Software Developer based in Delhi, India. For the last several years I've been working as a Android developer in many product based companies.",
             "I believe that friendly and respectful communication within a team is key to the company's success. With my experience in software development and database design, I think I would be a valuable asset to your project.",
-            'The main technology I have been using is Android using Java. But a few years ago I fell in love with Kotlin and I use it for most of projects. Moreover, I am in a good relationship with React (this website runs on React btw) and fascinated by AI and Machine Learning.',
+            'The main platform I have been working on is Android using the Kotlin programming language. Although i do enjoy learning about other Frameworks and Platforms. For e.g. I am in a good relationship with Node.js and React (this website runs on React btw).',
             'When I am not in front of the computer, I usually read books, play chess and explore different genres of music.',
           ],
         },

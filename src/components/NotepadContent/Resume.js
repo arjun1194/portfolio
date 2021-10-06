@@ -9,6 +9,10 @@ const StyledLink = styled.a`
 function Resume({ content }) {
   const { workExperience, education, resumeLink } = content;
 
+  const open = (url) => {
+      window.open(url,'_blank')
+  }
+
   return (
     <div>
       <h2>Work Experience</h2>
@@ -41,7 +45,7 @@ function Resume({ content }) {
           <br />
         </div>
       ))}
-      <StyledLink href={resumeLink} download>
+      <StyledLink onClick={()=>open(resumeLink)}>
         <Button style={{ fontSize: '14px' }} className="pointer">
           Download Resume
         </Button>
