@@ -29,7 +29,7 @@ export default class DataService {
               jobTitle: 'Android Developer',
               company: 'BankaktoGoods Groups S.L.',
               location: 'India (Remote)',
-              period: 'MAY 2017 – AUG 2019',
+              period: 'MAR 2021 – Present',
               accomplishments: [
                 'developed a library using Bluetooth Classic RFCOMM Sockets for ESC/POS compatible POS Thermal Printers. Used kotlin-coroutines and android architecture components.',
                 'developed a library to render Realtime Clusters on MapView in android, and syncing realtime location with Servers. used FusedLocationProviders and Google Maps SDK',
